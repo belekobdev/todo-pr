@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: 0;
+    transition: all 0.5s ease;
+}
+
+body {
+    background-color: aqua;
+}
+.line {
+    text-decoration: line-through;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
